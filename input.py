@@ -1,0 +1,5 @@
+fname=input("What is your name?")
+Age=input("How old are you?")
+print("Welcome",fname)
+print("You are",Age,"years old")
+print(type(Age))
