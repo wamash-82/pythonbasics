@@ -26,10 +26,12 @@ d=10
 print(d)
 d+=5
 print(d)
+d-=10
+print(d)
 #Comparison operators;used for comparing 2 values
 #Equals ==
 print(x==y)
-#Greater than
+#Greater than >
 print(x>y)
 #Less than <
 print(x<y)
@@ -47,3 +49,5 @@ print(u<3 or u<10)
 f=True
 print(f)
 print(not (f))
+
+
