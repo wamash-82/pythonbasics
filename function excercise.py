@@ -19,3 +19,14 @@ circle(7)
 def typeno(no):
     print("Number is even" if no%2==0 else"Number is odd")
 typeno(7)
+
+#Lamda/Anonymous function
+#lamda function that adds two numbers
+x=lambda a,b:a+b
+print(x(50,20))
+#lamda function that adds three numbers
+y=lambda a,b,c:a+b+c
+print(y(16,34,30))
+#lambda function that multiplies 2 numbers
+z=lambda a,b:a*b
+print(z(30,24))
